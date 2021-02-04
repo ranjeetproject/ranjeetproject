@@ -7,4 +7,8 @@ GitHub Readme Stats
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ranjeetproject&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 <!--START_SECTION:waka-->
+```text
+PHP              29 mins         ██████████████████▒░░░░░░   72.89 % 
+Blade Template   10 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.11 % 
+```
 <!--END_SECTION:waka-->
