@@ -8,7 +8,7 @@ GitHub Readme Stats
 
 <!--START_SECTION:waka-->
 ```text
-PHP              50 mins         █████████████████▓░░░░░░░   70.57 % 
-Blade Template   20 mins         ███████▒░░░░░░░░░░░░░░░░░   29.43 % 
+PHP              32 mins         ████████████████▒░░░░░░░░   64.76 % 
+Blade Template   17 mins         ████████▓░░░░░░░░░░░░░░░░   35.24 % 
 ```
 <!--END_SECTION:waka-->
