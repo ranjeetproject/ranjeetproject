@@ -8,6 +8,6 @@ GitHub Readme Stats
 
 <!--START_SECTION:waka-->
 ```text
-PHP          11 mins         █████████████████████████   100.00 % 
+
 ```
 <!--END_SECTION:waka-->
