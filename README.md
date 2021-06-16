@@ -8,6 +8,7 @@ GitHub Readme Stats
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Blade Template   1 hr            █████████████▓░░░░░░░░░░░   55.09 % 
+PHP              49 mins         ███████████▒░░░░░░░░░░░░░   44.91 % 
 ```
 <!--END_SECTION:waka-->
